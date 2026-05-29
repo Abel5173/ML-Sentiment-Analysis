@@ -7,3 +7,4 @@ plotly
 gdown
 imbalanced-learn
 google-play-scraper
+wordcloud
